@@ -10,3 +10,8 @@ git config user.email --> show the current user email
 
 git config user.name yash --> set the user name
 git config user.email yash@gmail.com --> set the user email
+
+git remote add origin<link>
+git status
+git add
+git commit -m <msg>
