@@ -4,6 +4,7 @@ Line 2
 Line 3
 Line 4
 Line 5
+This line was added in master branch
 
 git config user.name --> show the current user name
 git config user.email --> show the current user email
@@ -15,3 +16,4 @@ git remote add origin<link>
 git status
 git add
 git commit -m <msg>
+git push origin master

@@ -1,0 +1,6 @@
+This is File3
+This file is added in feature branch
+This is a new file
+Line1
+Line2
+Line3
